@@ -1,3 +1,5 @@
 ﻿Đến con khỉ cũng hiểu được Git
 và khi con khỉ đã hiểu được Git
 Add: Đăng ký thay đổi trong index
+và khi con khỉ đã hiểu được Git
+
