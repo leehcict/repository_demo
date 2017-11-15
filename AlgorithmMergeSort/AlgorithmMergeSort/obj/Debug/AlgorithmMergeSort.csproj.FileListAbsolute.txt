@@ -1,0 +1,12 @@
+E:\ChungLe\ConsoleExample\AlgorithmMergeSort\AlgorithmMergeSort\bin\Debug\AlgorithmMergeSort.exe.config
+E:\ChungLe\ConsoleExample\AlgorithmMergeSort\AlgorithmMergeSort\bin\Debug\AlgorithmMergeSort.exe
+E:\ChungLe\ConsoleExample\AlgorithmMergeSort\AlgorithmMergeSort\bin\Debug\AlgorithmMergeSort.pdb
+E:\ChungLe\ConsoleExample\AlgorithmMergeSort\AlgorithmMergeSort\obj\Debug\AlgorithmMergeSort.csprojResolveAssemblyReference.cache
+E:\ChungLe\ConsoleExample\AlgorithmMergeSort\AlgorithmMergeSort\obj\Debug\AlgorithmMergeSort.exe
+E:\ChungLe\ConsoleExample\AlgorithmMergeSort\AlgorithmMergeSort\obj\Debug\AlgorithmMergeSort.pdb
+E:\ChungLe\GIT\tutorial3\AlgorithmMergeSort\AlgorithmMergeSort\bin\Debug\AlgorithmMergeSort.exe.config
+E:\ChungLe\GIT\tutorial3\AlgorithmMergeSort\AlgorithmMergeSort\obj\Debug\AlgorithmMergeSort.exe
+E:\ChungLe\GIT\tutorial3\AlgorithmMergeSort\AlgorithmMergeSort\obj\Debug\AlgorithmMergeSort.pdb
+E:\ChungLe\GIT\tutorial3\AlgorithmMergeSort\AlgorithmMergeSort\bin\Debug\AlgorithmMergeSort.exe
+E:\ChungLe\GIT\tutorial3\AlgorithmMergeSort\AlgorithmMergeSort\bin\Debug\AlgorithmMergeSort.pdb
+E:\ChungLe\GIT\tutorial3\AlgorithmMergeSort\AlgorithmMergeSort\obj\Debug\AlgorithmMergeSort.csprojResolveAssemblyReference.cache
